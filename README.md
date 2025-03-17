@@ -10,14 +10,15 @@ The **Flight Assistant Chatbot** is an AI-powered assistant built with **Rasa** 
 
 The chatbot supports **voice interaction** and integrates **computer vision** for QR code scanning and navigation.
 
+## Project Structure
+<img width="695" alt="Screenshot 2025-03-17 at 20 00 34" src="https://github.com/user-attachments/assets/4dededf6-04ee-41f3-acf5-04a417a122fb" />
+
 ## 🛠️ Setup & Installation
 
 ### Clone the Repository**
 ```sh
 git clone https://github.com/your-username/RasaProject.git
 cd RasaProject
-
-```sh
 
 ## Create & Activate the Virtual Environment
 conda create --name rasa_env python=3.9
@@ -47,5 +48,3 @@ Scan boarding passes to retrieve flight details.
 🔹 Voice Interaction
 Enable real-time voice commands.
 
-## Project Structure
-<img width="695" alt="Screenshot 2025-03-17 at 20 00 34" src="https://github.com/user-attachments/assets/4dededf6-04ee-41f3-acf5-04a417a122fb" />
